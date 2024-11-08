@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Synergy Labs API is a job application platform that allows users to sign up, log in, upload resumes, and apply for jobs. The API is built using Go and utilizes the Echo framework for routing, GORM for database interactions, and Redis for caching.
+The Synergy Labs API is a Recruitment Management System that allows users to sign up, log in, upload resumes, and apply for jobs. The API is built using Go and utilizes the Echo framework for routing, GORM for database interactions, and Redis for caching.
 
 ## API Routes
 
